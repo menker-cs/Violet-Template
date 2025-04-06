@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tommy\\Downloads\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60C49799-0746-4959-A527-B67DCCBCBDB2}|PsiMenu.csproj|c:\\users\\tommy\\downloads\\new folder\\mods\\modbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C49799-0746-4959-A527-B67DCCBCBDB2}|PsiMenu.csproj|solutionrelative:mods\\modbuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModButtons.cs",
+              "DocumentMoniker": "C:\\Users\\Tommy\\Downloads\\New folder\\Mods\\ModButtons.cs",
+              "RelativeDocumentMoniker": "Mods\\ModButtons.cs",
+              "ToolTip": "C:\\Users\\Tommy\\Downloads\\New folder\\Mods\\ModButtons.cs",
+              "RelativeToolTip": "Mods\\ModButtons.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:47:34.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
